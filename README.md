@@ -1,5 +1,8 @@
 # Activity1
 # Hello World App
+
+# Assignment was met as the necessary software was downloaded(Visual STudio). In addition, Multiple tools were built in for user interface.
+
 namespace Activity_1._0
 {
     public partial class Activity1 : Form
